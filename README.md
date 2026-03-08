@@ -185,7 +185,11 @@ This version should provide a list of Tamil movies that are currently popular an
 if you have any doubts feel free to contact me
 
 Name: praveen k
+
 phone: 8825870266
+
 Email: praveenkicha01@gmail.com
+
 GitHub: https://github.com/Praveenmarshal
+
 LinkedIn: https://www.linkedin.com/in/praveen-kannan-6862382a2
