@@ -182,3 +182,10 @@ How to Use:
  * Delete the old CSV files (movies_data.csv and tamil_movies_data.csv) if they exist, to ensure you start fresh with only trending Tamil movie data.
  * Run the script: python tamil_trending_recommender.py
 This version should provide a list of Tamil movies that are currently popular and have been released relatively recently, giving you a good sense of "trending" within the Tamil film industry on TMDb. You can experiment with the primary_release_date.gte days (e.g., 30 for very recent, 180 for a broader recent period) and min_votes_threshold to fine-tune the results.
+if you have any doubts feel free to contact me
+
+Name: praveen k
+phone: 8825870266
+Email: praveenkicha01@gmail.com
+GitHub: https://github.com/Praveenmarshal
+LinkedIn: https://www.linkedin.com/in/praveen-kannan-6862382a2
